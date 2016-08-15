@@ -1,9 +1,9 @@
 # This is a project about how Arduino Temp/Humidity
 # module (DHT11) transfers data to Google Spreadsheet
-@ via Arduino Ethernet shield.
+# via Arduino Ethernet shield.
 # Rev-01 upload
 
-#Reference webpage: 
+# Reference webpage: http://jarkomdityaz.appspot.com/
 
 # Step1: Create new spreadsheet on your google spreadsheet.
 # Step2: Edit your spreadsheet, such like column title... and so on.
